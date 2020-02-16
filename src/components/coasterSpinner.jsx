@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class CoasterSpinner extends Component {
   render() {
     return (
-      <div class="loader">
+      <div className="loader">
         <span></span>
         <span></span>
         <span></span>

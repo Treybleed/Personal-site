@@ -7,12 +7,12 @@ function App() {
   return (
     <div className="App">
       <header>
-        <div class="center">
-          <div class="container">
-            <div class="item">
+        <div className="center">
+          <div className="container">
+            <div className="item">
               <CoasterSpinner />
             </div>
-            <div class="item spinner-text">
+            <div className="item spinner-text">
               <p>In development</p>
             </div>
           </div>
